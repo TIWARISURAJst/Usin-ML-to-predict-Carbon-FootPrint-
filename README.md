@@ -26,7 +26,6 @@ A data-driven approach to predicting and analyzing carbon emissions using demogr
 8. [Business / Policy Impact](#business--policy-impact)
 9. [Reproducibility Notes](#reproducibility-notes)
 10. [Data Card](#data-card)
-11. [Contact](#contact)
 12. [Acknowledgments](#acknowledgments)
 13. [Environment Setup & Reproducibility](#environment-setup-and-reproducibility)
 
@@ -160,13 +159,6 @@ Machine learning predictions are used to guide **real sustainability actions**:
 
 ---
 
-## ✉️ Contact
-
-**Author:** Juan Miguel López Piñero  
-📧 [tiwarisuraj1428068@gmail.com](mailto:tiwarisuraj1428068@gmail.com)  
-
----
-
 ## 🙏 Acknowledgments
 
 This project was developed as part of the **Machine Learning for Business Analytics (MLBA)** coursework.  
@@ -192,6 +184,7 @@ git clone https://github.com/TIWARISURAJst/Usin-ML-to-predict-Carbon-FootPrint-.
 cd Usin-ML-to-predict-Carbon-FootPrint-
 
 ---
+
 
 
 
