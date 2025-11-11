@@ -20,8 +20,7 @@ A data-driven approach to predicting and analyzing carbon emissions using demogr
 1. [Introduction](#introduction)
 2. [Objectives](#objectives)
 3. [Dataset](#dataset)
-4. [Environment Setup & Reproducibility](#environment-setup-and-reproducibility)
-5. [Modeling Approach](#modeling-approach)
+4.  [Modeling Approach](#modeling-approach)
 6. [Ablation & Error Analysis](#ablation-and-error-analysis)
 7. [Results](#results)
 8. [Business / Policy Impact](#business--policy-impact)
@@ -29,6 +28,7 @@ A data-driven approach to predicting and analyzing carbon emissions using demogr
 10. [Data Card](#data-card)
 11. [Contact](#contact)
 12. [Acknowledgments](#acknowledgments)
+13. 4. [Environment Setup & Reproducibility](#environment-setup-and-reproducibility)
 
 ---
 
@@ -69,17 +69,7 @@ Example columns:
 | CarbonEmission | Numeric (Target) | Annual CO₂ emissions (kg) |
 
 ---
-
-## ⚙️ Environment Setup and Reproducibility
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/TIWARISURAJst/Usin-ML-to-predict-Carbon-FootPrint-.git
-cd Usin-ML-to-predict-Carbon-FootPrint-
-
----
-
-## 🧠 Modeling Approach
+### 🧠 Modeling Approach
 
 This project evaluates multiple machine learning models to predict carbon emissions based on environmental and behavioral factors.  
 It compares traditional regressors, ensemble methods, and neural networks.
@@ -195,4 +185,15 @@ Special thanks to mentors and peers for feedback, and to open-source tools such 
 <p align="center">
   <em>“Data-driven sustainability — where analytics meets environmental impact.”</em>
 </p>
+
+
+
+## ⚙️ Environment Setup and Reproducibility
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/TIWARISURAJst/Usin-ML-to-predict-Carbon-FootPrint-.git
+cd Usin-ML-to-predict-Carbon-FootPrint-
+
+---
 
