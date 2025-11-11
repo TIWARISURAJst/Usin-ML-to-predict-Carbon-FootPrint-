@@ -163,8 +163,7 @@ Machine learning predictions are used to guide **real sustainability actions**:
 ## ✉️ Contact
 
 **Author:** Juan Miguel López Piñero  
-📧 [juanmiguelopezpinero@icloud.com](mailto:juanmiguelopezpinero@icloud.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/miguellopez19/) | [Kaggle](https://www.kaggle.com/jmlpezpinero/)
+📧 [tiwarisuraj1428068@gmail.com](mailto:tiwarisuraj1428068@gmail.com)  
 
 ---
 
@@ -193,5 +192,6 @@ git clone https://github.com/TIWARISURAJst/Usin-ML-to-predict-Carbon-FootPrint-.
 cd Usin-ML-to-predict-Carbon-FootPrint-
 
 ---
+
 
 
