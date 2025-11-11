@@ -28,7 +28,7 @@ A data-driven approach to predicting and analyzing carbon emissions using demogr
 10. [Data Card](#data-card)
 11. [Contact](#contact)
 12. [Acknowledgments](#acknowledgments)
-13. 4. [Environment Setup & Reproducibility](#environment-setup-and-reproducibility)
+13. [Environment Setup & Reproducibility](#environment-setup-and-reproducibility)
 
 ---
 
@@ -117,9 +117,6 @@ This analysis identifies where the models fail, which helps improve reliability 
 | XGBoost | 120.0 | 0.95 | (118.1 – 122.0) | Strong ensemble model |
 | Keras ANN | 119.7 | 0.95 | (117.9 – 121.6) | Best-performing model |
 
-<p align="center">
-  <img src="img/results_plot.png" alt="Model Comparison" width="80%">
-</p>
 
 ---
 
@@ -196,4 +193,5 @@ git clone https://github.com/TIWARISURAJst/Usin-ML-to-predict-Carbon-FootPrint-.
 cd Usin-ML-to-predict-Carbon-FootPrint-
 
 ---
+
 
