@@ -1,0 +1,8 @@
+Feature,Type,Description,Missing_Percent,Leakage_Risk
+Diet,Categorical,Type of diet followed by the person,0,Low
+Transport,Categorical,Mode of daily transport,0,Low
+Energy_Usage_kwh,Numeric,Monthly energy consumption in kWh,0,Medium
+Water_Usage_liters,Numeric,Monthly water consumption in liters,0,Low
+Waste_kg,Numeric,Monthly waste generated in kg,0,Low
+Renewable_pct,Numeric,Percent energy from renewable sources,0,Low
+CarbonEmission,Numeric (Target),Annual CO2 emissions (kg),0,None
